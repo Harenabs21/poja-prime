@@ -1,4 +1,4 @@
-package com.poja.prime.endpoint.rest.controller;
+package com.poja.prime.endpoint.rest;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.context.annotation.Bean;
